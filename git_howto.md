@@ -11,3 +11,9 @@ git init
 ```sh
 git add
 ```
+
+## Зафиксировать изменения
+
+```sh
+git commit
+```
