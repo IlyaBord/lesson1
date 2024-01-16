@@ -29,3 +29,9 @@ git log
 ```sh
 git log --oneline
 ```
+
+## Переход между коммитами
+
+```sh
+git checkout
+```
