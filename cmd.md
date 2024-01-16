@@ -27,4 +27,5 @@ del <filename>
 в Linux? Mac0s:
 ```sh
 rm <filename>
+
 ```
