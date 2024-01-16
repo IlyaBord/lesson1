@@ -17,3 +17,9 @@ git add
 ```sh
 git commit
 ```
+
+## Вывод список всех коммитов
+
+```sh
+git log
+```
